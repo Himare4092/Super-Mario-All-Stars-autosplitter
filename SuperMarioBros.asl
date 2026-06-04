@@ -272,6 +272,7 @@ init
 			version = "0.0.4_RTA";
 			break;
 		case "646F8973AFE02247E7F4A343B93BB832C4ED1A03": // Mesen2RTA v0.0.5
+		case "655B583A7DE102D71A560ED3FD94A7B53A1344A8": // Mesen2RTA v0.0.5 (re-upload)
 			print("Detected Mesen2RTA v0.0.5");
 			version = "0.0.5_RTA";
 			break;
