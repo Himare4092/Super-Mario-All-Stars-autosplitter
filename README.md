@@ -1,8 +1,8 @@
-# Super Mario Bros. Autosplitter
+# Super Mario All-Stars Autosplitter
 LiveSplit autosplitter for NES/FDS Super Mario Bros. (with partial support for FDS Super Mario Bros. 2, a.k.a. "SMB2J").
 
 ## Supported Emulators
-See the [Supported Emulators](https://github.com/periwinkle9/smb-autosplitter/wiki/Supported-Emulators) wiki page for the current list of supported emulators.
+Snes9x / bsnes / BizHawk / SNESGT
 
 Due to technical challenges, Bizhawk is currently not supported. Support for Bizhawk is unlikely to come in the foreseeable future.
 
