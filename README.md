@@ -1,9 +1,9 @@
 # Super Mario All-Stars Autosplitter
-LiveSplit autosplitter for SNES/SFC Super Mario All-Stars  (Supported by SMB1 & SMB2(JP)
+LiveSplit autosplitter for SNES/SFC Super Mario All-Stars  (Supported for SMB1 & SMB2(JP))
 ## Supported Emulators
 Snes9x / bsnes / BizHawk / SNESGT
 
-Due to technical challenges, Bizhawk is currently not supported. Support for Bizhawk is unlikely to come in the foreseeable future.
+
 
 ## Supported Speedrun Categories
 The autosplitter *should* fully work in most categories that start from the title screen and end by touching an axe in a world numbered 8 or higher.
