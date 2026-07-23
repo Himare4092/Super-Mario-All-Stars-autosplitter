@@ -1,6 +1,5 @@
 # Super Mario All-Stars Autosplitter
-LiveSplit autosplitter for NES/FDS Super Mario Bros. (with partial support for FDS Super Mario Bros. 2, a.k.a. "SMB2J").
-
+LiveSplit autosplitter for SNES/SFC Super Mario All-Stars  (Supported by SMB1 & SMB2(JP)
 ## Supported Emulators
 Snes9x / bsnes / BizHawk / SNESGT
 
